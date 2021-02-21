@@ -38,25 +38,25 @@ CMakeFiles/traffic_simulation.dir/src/Graphics.cpp.obj
  C:/C++ Development/Libs/opencv/cv_cpu_config.h
  C:/C++ Development/Libs/opencv/cvconfig.h
  C:/C++ Development/Libs/opencv/opencv2/opencv_modules.hpp
- C:/Users/Albert/Desktop/L2_Project/src/Graphics.cpp
- C:/Users/Albert/Desktop/L2_Project/src/Graphics.h
- C:/Users/Albert/Desktop/L2_Project/src/Intersection.h
- C:/Users/Albert/Desktop/L2_Project/src/TrafficObject.h
+ C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Graphics.cpp
+ C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Graphics.h
+ C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Intersection.h
+ C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/TrafficObject.h
 CMakeFiles/traffic_simulation.dir/src/Intersection.cpp.obj
- C:/Users/Albert/Desktop/L2_Project/src/Intersection.cpp
- C:/Users/Albert/Desktop/L2_Project/src/Intersection.h
- C:/Users/Albert/Desktop/L2_Project/src/Street.h
- C:/Users/Albert/Desktop/L2_Project/src/TrafficObject.h
- C:/Users/Albert/Desktop/L2_Project/src/Vehicle.h
+ C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Intersection.cpp
+ C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Intersection.h
+ C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Street.h
+ C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/TrafficObject.h
+ C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Vehicle.h
 CMakeFiles/traffic_simulation.dir/src/Street.cpp.obj
- C:/Users/Albert/Desktop/L2_Project/src/Intersection.h
- C:/Users/Albert/Desktop/L2_Project/src/Street.cpp
- C:/Users/Albert/Desktop/L2_Project/src/Street.h
- C:/Users/Albert/Desktop/L2_Project/src/TrafficObject.h
- C:/Users/Albert/Desktop/L2_Project/src/Vehicle.h
+ C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Intersection.h
+ C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Street.cpp
+ C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Street.h
+ C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/TrafficObject.h
+ C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Vehicle.h
 CMakeFiles/traffic_simulation.dir/src/TrafficObject.cpp.obj
- C:/Users/Albert/Desktop/L2_Project/src/TrafficObject.cpp
- C:/Users/Albert/Desktop/L2_Project/src/TrafficObject.h
+ C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/TrafficObject.cpp
+ C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/TrafficObject.h
 CMakeFiles/traffic_simulation.dir/src/TrafficSimulator-L2.cpp.obj
  C:/C++ Development/Libs/opencv-4.5.1/modules/core/include/opencv2/core.hpp
  C:/C++ Development/Libs/opencv-4.5.1/modules/core/include/opencv2/core/base.hpp
@@ -90,15 +90,15 @@ CMakeFiles/traffic_simulation.dir/src/TrafficSimulator-L2.cpp.obj
  C:/C++ Development/Libs/opencv/cv_cpu_config.h
  C:/C++ Development/Libs/opencv/cvconfig.h
  C:/C++ Development/Libs/opencv/opencv2/opencv_modules.hpp
- C:/Users/Albert/Desktop/L2_Project/src/Graphics.h
- C:/Users/Albert/Desktop/L2_Project/src/Intersection.h
- C:/Users/Albert/Desktop/L2_Project/src/Street.h
- C:/Users/Albert/Desktop/L2_Project/src/TrafficObject.h
- C:/Users/Albert/Desktop/L2_Project/src/TrafficSimulator-L2.cpp
- C:/Users/Albert/Desktop/L2_Project/src/Vehicle.h
+ C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Graphics.h
+ C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Intersection.h
+ C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Street.h
+ C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/TrafficObject.h
+ C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/TrafficSimulator-L2.cpp
+ C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Vehicle.h
 CMakeFiles/traffic_simulation.dir/src/Vehicle.cpp.obj
- C:/Users/Albert/Desktop/L2_Project/src/Intersection.h
- C:/Users/Albert/Desktop/L2_Project/src/Street.h
- C:/Users/Albert/Desktop/L2_Project/src/TrafficObject.h
- C:/Users/Albert/Desktop/L2_Project/src/Vehicle.cpp
- C:/Users/Albert/Desktop/L2_Project/src/Vehicle.h
+ C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Intersection.h
+ C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Street.h
+ C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/TrafficObject.h
+ C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Vehicle.cpp
+ C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Vehicle.h

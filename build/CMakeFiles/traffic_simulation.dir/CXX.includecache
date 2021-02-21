@@ -350,7 +350,7 @@ C:/C++ Development/Libs/opencv/cvconfig.h
 
 C:/C++ Development/Libs/opencv/opencv2/opencv_modules.hpp
 
-C:/Users/Albert/Desktop/L2_Project/src/Graphics.cpp
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Graphics.cpp
 iostream
 -
 opencv2/core.hpp
@@ -360,11 +360,11 @@ opencv2/imgproc.hpp
 opencv2/highgui.hpp
 -
 Graphics.h
-C:/Users/Albert/Desktop/L2_Project/src/Graphics.h
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Graphics.h
 Intersection.h
-C:/Users/Albert/Desktop/L2_Project/src/Intersection.h
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Intersection.h
 
-C:/Users/Albert/Desktop/L2_Project/src/Graphics.h
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Graphics.h
 string
 -
 vector
@@ -372,9 +372,9 @@ vector
 opencv2/core.hpp
 -
 TrafficObject.h
-C:/Users/Albert/Desktop/L2_Project/src/TrafficObject.h
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/TrafficObject.h
 
-C:/Users/Albert/Desktop/L2_Project/src/Intersection.cpp
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Intersection.cpp
 iostream
 -
 thread
@@ -386,13 +386,13 @@ future
 random
 -
 Street.h
-C:/Users/Albert/Desktop/L2_Project/src/Street.h
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Street.h
 Intersection.h
-C:/Users/Albert/Desktop/L2_Project/src/Intersection.h
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Intersection.h
 Vehicle.h
-C:/Users/Albert/Desktop/L2_Project/src/Vehicle.h
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Vehicle.h
 
-C:/Users/Albert/Desktop/L2_Project/src/Intersection.h
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Intersection.h
 vector
 -
 future
@@ -400,23 +400,23 @@ future
 memory
 -
 TrafficObject.h
-C:/Users/Albert/Desktop/L2_Project/src/TrafficObject.h
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/TrafficObject.h
 
-C:/Users/Albert/Desktop/L2_Project/src/Street.cpp
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Street.cpp
 iostream
 -
 Vehicle.h
-C:/Users/Albert/Desktop/L2_Project/src/Vehicle.h
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Vehicle.h
 Intersection.h
-C:/Users/Albert/Desktop/L2_Project/src/Intersection.h
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Intersection.h
 Street.h
-C:/Users/Albert/Desktop/L2_Project/src/Street.h
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Street.h
 
-C:/Users/Albert/Desktop/L2_Project/src/Street.h
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Street.h
 TrafficObject.h
-C:/Users/Albert/Desktop/L2_Project/src/TrafficObject.h
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/TrafficObject.h
 
-C:/Users/Albert/Desktop/L2_Project/src/TrafficObject.cpp
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/TrafficObject.cpp
 iostream
 -
 chrono
@@ -424,15 +424,15 @@ chrono
 algorithm
 -
 TrafficObject.h
-C:/Users/Albert/Desktop/L2_Project/src/TrafficObject.h
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/TrafficObject.h
 
-C:/Users/Albert/Desktop/L2_Project/src/TrafficObject.h
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/TrafficObject.h
 vector
 -
 thread
 -
 
-C:/Users/Albert/Desktop/L2_Project/src/TrafficSimulator-L2.cpp
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/TrafficSimulator-L2.cpp
 iostream
 -
 thread
@@ -440,27 +440,27 @@ thread
 vector
 -
 Vehicle.h
-C:/Users/Albert/Desktop/L2_Project/src/Vehicle.h
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Vehicle.h
 Street.h
-C:/Users/Albert/Desktop/L2_Project/src/Street.h
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Street.h
 Intersection.h
-C:/Users/Albert/Desktop/L2_Project/src/Intersection.h
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Intersection.h
 Graphics.h
-C:/Users/Albert/Desktop/L2_Project/src/Graphics.h
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Graphics.h
 
-C:/Users/Albert/Desktop/L2_Project/src/Vehicle.cpp
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Vehicle.cpp
 iostream
 -
 random
 -
 Street.h
-C:/Users/Albert/Desktop/L2_Project/src/Street.h
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Street.h
 Intersection.h
-C:/Users/Albert/Desktop/L2_Project/src/Intersection.h
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Intersection.h
 Vehicle.h
-C:/Users/Albert/Desktop/L2_Project/src/Vehicle.h
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Vehicle.h
 
-C:/Users/Albert/Desktop/L2_Project/src/Vehicle.h
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Vehicle.h
 TrafficObject.h
-C:/Users/Albert/Desktop/L2_Project/src/TrafficObject.h
+C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/TrafficObject.h
 

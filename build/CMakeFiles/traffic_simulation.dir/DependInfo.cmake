@@ -4,12 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Albert/Desktop/L2_Project/src/Graphics.cpp" "C:/Users/Albert/Desktop/L2_Project/build/CMakeFiles/traffic_simulation.dir/src/Graphics.cpp.obj"
-  "C:/Users/Albert/Desktop/L2_Project/src/Intersection.cpp" "C:/Users/Albert/Desktop/L2_Project/build/CMakeFiles/traffic_simulation.dir/src/Intersection.cpp.obj"
-  "C:/Users/Albert/Desktop/L2_Project/src/Street.cpp" "C:/Users/Albert/Desktop/L2_Project/build/CMakeFiles/traffic_simulation.dir/src/Street.cpp.obj"
-  "C:/Users/Albert/Desktop/L2_Project/src/TrafficObject.cpp" "C:/Users/Albert/Desktop/L2_Project/build/CMakeFiles/traffic_simulation.dir/src/TrafficObject.cpp.obj"
-  "C:/Users/Albert/Desktop/L2_Project/src/TrafficSimulator-L2.cpp" "C:/Users/Albert/Desktop/L2_Project/build/CMakeFiles/traffic_simulation.dir/src/TrafficSimulator-L2.cpp.obj"
-  "C:/Users/Albert/Desktop/L2_Project/src/Vehicle.cpp" "C:/Users/Albert/Desktop/L2_Project/build/CMakeFiles/traffic_simulation.dir/src/Vehicle.cpp.obj"
+  "C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Graphics.cpp" "C:/Users/Albert/Documents/C++/Portfolio/L2_Project/build/CMakeFiles/traffic_simulation.dir/src/Graphics.cpp.obj"
+  "C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Intersection.cpp" "C:/Users/Albert/Documents/C++/Portfolio/L2_Project/build/CMakeFiles/traffic_simulation.dir/src/Intersection.cpp.obj"
+  "C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Street.cpp" "C:/Users/Albert/Documents/C++/Portfolio/L2_Project/build/CMakeFiles/traffic_simulation.dir/src/Street.cpp.obj"
+  "C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/TrafficObject.cpp" "C:/Users/Albert/Documents/C++/Portfolio/L2_Project/build/CMakeFiles/traffic_simulation.dir/src/TrafficObject.cpp.obj"
+  "C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/TrafficSimulator-L2.cpp" "C:/Users/Albert/Documents/C++/Portfolio/L2_Project/build/CMakeFiles/traffic_simulation.dir/src/TrafficSimulator-L2.cpp.obj"
+  "C:/Users/Albert/Documents/C++/Portfolio/L2_Project/src/Vehicle.cpp" "C:/Users/Albert/Documents/C++/Portfolio/L2_Project/build/CMakeFiles/traffic_simulation.dir/src/Vehicle.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
